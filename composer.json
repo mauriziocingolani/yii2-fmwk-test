@@ -1,5 +1,5 @@
 {
-	"name":"mauriziocingolani\yii2-fmwk-test",
+	"name":"mauriziocingolani/yii2-fmwk-test",
 	"description":"test per utilizzo di Composer",
 	"require":{
 		"php":">=5.4.0"
