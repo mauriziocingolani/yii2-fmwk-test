@@ -2,7 +2,7 @@
 
 class Test {
 
-   public static function Echo($message) {
+   public static function EchoMessage($message) {
 	echo $message;
    }
 }
