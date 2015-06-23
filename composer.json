@@ -1,0 +1,12 @@
+{
+	"name":"mauriziocingolani\yii2-fmwk-test",
+	"description":"test per utilizzo di Composer",
+	"require":{
+		"php":">=5.4.0"
+	}
+	"autoload":{
+		"psr-4":{
+			"mauriziocingolani\\yii2fmwktest\\":"/"
+		}
+	}
+}
